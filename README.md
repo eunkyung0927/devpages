@@ -1,2 +1,2 @@
 # devpages
-Rwepository for GitHub Pages
+Repository for GitHub Pages
